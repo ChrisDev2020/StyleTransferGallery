@@ -1,4 +1,4 @@
-#Wed Feb 05 11:11:46 CET 2020
-base.0=/Users/chris.pohl/Documents/Projekte/StyleTransfer/MergeProjects/tensorflow-style-transfer-android/android/build/intermediates/transforms/dexMerger/debug/0
+#Wed Feb 05 11:54:33 CET 2020
+base.0=/Users/chris.pohl/Documents/Projekte/StyleTransfer/Git/StyleTransferImage/StyleTransferGallery/android/build/intermediates/transforms/dexMerger/debug/0
 path.0=classes.dex
 renamed.0=classes.dex

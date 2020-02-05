@@ -1,46 +1,27 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/chris.pohl/Documents/Projekte/StyleTransfer/MergeProjects/tensorflow-style-transfer-android/android/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "outputFile": "/Users/chris.pohl/Documents/Projekte/StyleTransfer/Git/StyleTransferImage/StyleTransferGallery/android/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
             "map": [
                 {
-                    "source": "/Users/chris.pohl/Documents/Projekte/StyleTransfer/MergeProjects/tensorflow-style-transfer-android/android/res/values/template-styles.xml",
+                    "source": "/Users/chris.pohl/Documents/Projekte/StyleTransfer/Git/StyleTransferImage/StyleTransferGallery/android/res/values/strings.xml",
                     "from": {
-                        "startLines": "24,20,22,27,29,34",
-                        "startColumns": "4,4,4,4,4,4",
-                        "startOffsets": "781,664,726,862,891,1088",
-                        "endLines": "24,20,22,27,32,39",
-                        "endColumns": "51,60,53,27,12,12",
-                        "endOffsets": "828,720,775,885,1082,1361"
+                        "startLines": "18,16,17",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "792,658,708",
+                        "endColumns": "82,49,83",
+                        "endOffsets": "870,703,787"
                     },
                     "to": {
-                        "startLines": "16,18,19,20,21,25",
-                        "startColumns": "4,4,4,4,4,4",
-                        "startOffsets": "981,1127,1187,1240,1267,1463",
-                        "endLines": "16,18,19,20,24,30",
-                        "endColumns": "50,59,52,26,12,12",
-                        "endOffsets": "1027,1182,1235,1262,1458,1736"
+                        "startLines": "13,14,15",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "764,847,897",
+                        "endColumns": "82,49,83",
+                        "endOffsets": "842,892,976"
                     }
                 },
                 {
-                    "source": "/Users/chris.pohl/Documents/Projekte/StyleTransfer/MergeProjects/tensorflow-style-transfer-android/android/res/values/template-dimens.xml",
-                    "from": {
-                        "startLines": "28,24,23,22,21,20,29",
-                        "startColumns": "4,4,4,4,4,4,4",
-                        "startOffsets": "972,893,849,804,761,719,1042",
-                        "endColumns": "69,42,43,44,42,41,67",
-                        "endOffsets": "1037,931,888,844,799,756,1105"
-                    },
-                    "to": {
-                        "startLines": "4,5,6,7,8,9,10",
-                        "startColumns": "4,4,4,4,4,4,4",
-                        "startOffsets": "295,365,408,452,497,540,582",
-                        "endColumns": "69,42,43,44,42,41,67",
-                        "endOffsets": "360,403,447,492,535,577,645"
-                    }
-                },
-                {
-                    "source": "/Users/chris.pohl/Documents/Projekte/StyleTransfer/MergeProjects/tensorflow-style-transfer-android/android/res/values/colors.xml",
+                    "source": "/Users/chris.pohl/Documents/Projekte/StyleTransfer/Git/StyleTransferImage/StyleTransferGallery/android/res/values/colors.xml",
                     "from": {
                         "startLines": "17",
                         "startColumns": "4",
@@ -57,7 +38,24 @@
                     }
                 },
                 {
-                    "source": "/Users/chris.pohl/Documents/Projekte/StyleTransfer/MergeProjects/tensorflow-style-transfer-android/android/res/values/base-strings.xml",
+                    "source": "/Users/chris.pohl/Documents/Projekte/StyleTransfer/Git/StyleTransferImage/StyleTransferGallery/android/res/values/template-dimens.xml",
+                    "from": {
+                        "startLines": "28,24,23,22,21,20,29",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "972,893,849,804,761,719,1042",
+                        "endColumns": "69,42,43,44,42,41,67",
+                        "endOffsets": "1037,931,888,844,799,756,1105"
+                    },
+                    "to": {
+                        "startLines": "4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "295,365,408,452,497,540,582",
+                        "endColumns": "69,42,43,44,42,41,67",
+                        "endOffsets": "360,403,447,492,535,577,645"
+                    }
+                },
+                {
+                    "source": "/Users/chris.pohl/Documents/Projekte/StyleTransfer/Git/StyleTransferImage/StyleTransferGallery/android/res/values/base-strings.xml",
                     "from": {
                         "startLines": "19,18",
                         "startColumns": "4,4",
@@ -74,7 +72,7 @@
                     }
                 },
                 {
-                    "source": "/Users/chris.pohl/Documents/Projekte/StyleTransfer/MergeProjects/tensorflow-style-transfer-android/android/res/values/styles.xml",
+                    "source": "/Users/chris.pohl/Documents/Projekte/StyleTransfer/Git/StyleTransferImage/StyleTransferGallery/android/res/values/styles.xml",
                     "from": {
                         "startLines": "16",
                         "startColumns": "4",
@@ -91,20 +89,22 @@
                     }
                 },
                 {
-                    "source": "/Users/chris.pohl/Documents/Projekte/StyleTransfer/MergeProjects/tensorflow-style-transfer-android/android/res/values/strings.xml",
+                    "source": "/Users/chris.pohl/Documents/Projekte/StyleTransfer/Git/StyleTransferImage/StyleTransferGallery/android/res/values/template-styles.xml",
                     "from": {
-                        "startLines": "18,16,17",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "792,658,708",
-                        "endColumns": "82,49,83",
-                        "endOffsets": "870,703,787"
+                        "startLines": "24,20,22,27,29,34",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "781,664,726,862,891,1088",
+                        "endLines": "24,20,22,27,32,39",
+                        "endColumns": "51,60,53,27,12,12",
+                        "endOffsets": "828,720,775,885,1082,1361"
                     },
                     "to": {
-                        "startLines": "13,14,15",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "764,847,897",
-                        "endColumns": "82,49,83",
-                        "endOffsets": "842,892,976"
+                        "startLines": "16,18,19,20,21,25",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "981,1127,1187,1240,1267,1463",
+                        "endLines": "16,18,19,20,24,30",
+                        "endColumns": "50,59,52,26,12,12",
+                        "endOffsets": "1027,1182,1235,1262,1458,1736"
                     }
                 }
             ]

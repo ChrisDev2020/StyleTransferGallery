@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/chris.pohl/Documents/Projekte/StyleTransfer/MergeProjects/tensorflow-style-transfer-android/android/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v21/values-v21.xml",
+            "outputFile": "/Users/chris.pohl/Documents/Projekte/StyleTransfer/Git/StyleTransferImage/StyleTransferGallery/android/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v21/values-v21.xml",
             "map": [
                 {
-                    "source": "/Users/chris.pohl/Documents/Projekte/StyleTransfer/MergeProjects/tensorflow-style-transfer-android/android/res/values-v21/base-template-styles.xml",
+                    "source": "/Users/chris.pohl/Documents/Projekte/StyleTransfer/Git/StyleTransferImage/StyleTransferGallery/android/res/values-v21/base-template-styles.xml",
                     "from": {
                         "startLines": "20",
                         "startColumns": "4",

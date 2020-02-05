@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/chris.pohl/Documents/Projekte/StyleTransfer/MergeProjects/tensorflow-style-transfer-android/android/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw600dp-v13/values-sw600dp-v13.xml",
+            "outputFile": "/Users/chris.pohl/Documents/Projekte/StyleTransfer/Git/StyleTransferImage/StyleTransferGallery/android/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw600dp-v13/values-sw600dp-v13.xml",
             "map": [
                 {
-                    "source": "/Users/chris.pohl/Documents/Projekte/StyleTransfer/MergeProjects/tensorflow-style-transfer-android/android/res/values-sw600dp/template-dimens.xml",
+                    "source": "/Users/chris.pohl/Documents/Projekte/StyleTransfer/Git/StyleTransferImage/StyleTransferGallery/android/res/values-sw600dp/template-dimens.xml",
                     "from": {
                         "startLines": "20,21",
                         "startColumns": "4,4",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "/Users/chris.pohl/Documents/Projekte/StyleTransfer/MergeProjects/tensorflow-style-transfer-android/android/res/values-sw600dp/template-styles.xml",
+                    "source": "/Users/chris.pohl/Documents/Projekte/StyleTransfer/Git/StyleTransferImage/StyleTransferGallery/android/res/values-sw600dp/template-styles.xml",
                     "from": {
                         "startLines": "18",
                         "startColumns": "4",
